@@ -33,8 +33,6 @@ if __name__ == '__main__':
     print(f"Articles in {mag1.name}:", mag1.articles())
     print(f"Contributors in {mag1.name}:", mag1.contributors())
 
-    print("\n--- Bonus ---")
-    print("Top publisher:", Magazine.top_publisher())
 
 
 
